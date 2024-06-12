@@ -1,0 +1,40 @@
+/*
+  Satoshi v1.0 by Indian Type Foundry
+  ITF Free Font Licence
+  https://www.fontshare.com/fonts/satoshi
+*/
+@font-face {
+  font-display: swap;
+  font-family: Sotachi;
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/satochi/Satoshi-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-display: swap;
+  font-family: Sotachi;
+  font-style: italic;
+  font-weight: 400;
+  src: url('./fonts/satochi/Satoshi-Italic.woff2') format('woff2');
+}
+@font-face {
+  font-display: swap;
+  font-family: Sotachi;
+  font-style: normal;
+  font-weight: 600;
+  src: url('./fonts/satochi/Satoshi-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-display: swap;
+  font-family: Sotachi;
+  font-style: normal;
+  font-weight: 700;
+  src: url('./fonts/satochi/Satoshi-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-display: swap;
+  font-family: Sotachi;
+  font-style: normal;
+  font-weight: 900;
+  src: url('./fonts/satochi/Satoshi-Black.woff2') format('woff2');
+}
